@@ -6,11 +6,16 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          I am currently co-founder of CallHQ.ai, building real-time voice AI for
-          businesses. I am a technologist at heart with strong business judgment—
-          I enjoy going from product strategy to hands-on engineering. My background
-          spans leadership at Adobe, founding Broki and CallHQ, and shipping
-          full-stack products end to end.
+          I am a Fiber Optic and Network Infrastructure Engineer focused on
+          next-generation connectivity for hyperscale cloud and data center
+          environments. Currently working as an AWS Connectivity Engineer at
+          Amazon, I design high-density fiber systems, large-scale interconnect
+          architectures, and cloud connectivity frameworks. My work spans AWS
+          networking, BGP routing, Direct Connect, structured cabling, and
+          precision optical testing — reducing optical loss by ~20–30% and
+          improving installation efficiency by ~40–60%. I am an IEEE Member,
+          Sigma Xi Member, and RAPTOR Fellow, with publications in international
+          journals and keynote speaking engagements at IEEE conferences globally.
         </p>
       </div>
     </div>
